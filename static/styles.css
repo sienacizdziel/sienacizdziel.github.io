@@ -1,0 +1,56 @@
+#photo
+{
+    position: absolute;
+    width: 30%;
+    border-radius: 50%;
+    top: 20%;
+    right: 15%;
+}
+
+.left
+{
+    position: absolute;
+    right: 50%;
+    top: 27%;
+    width: 480px;
+}
+
+h1
+{
+    font-size: 60px;
+    text-align: center;
+}
+
+.icon
+{
+    width: 10%;
+    box-shadow: 5px;
+    margin: 10px;
+}
+
+.icon-div
+{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.btn-default
+{
+    color: white;
+    background-color: #64b464;
+}
+
+h2 
+{
+    margin-top: 15px;
+    text-align: center;
+}
+
+#attribution
+{
+    text-align: right;
+    position: absolute;
+    font-size: 12px;
+    bottom: 5px;
+    right: 5px;
+}
