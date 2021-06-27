@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sienacizdziel.github.io/static/css/main.d88626d3.chunk.css",
+    "main.js": "/sienacizdziel.github.io/static/js/main.969596b6.chunk.js",
+    "main.js.map": "/sienacizdziel.github.io/static/js/main.969596b6.chunk.js.map",
+    "runtime-main.js": "/sienacizdziel.github.io/static/js/runtime-main.1464cae0.js",
+    "runtime-main.js.map": "/sienacizdziel.github.io/static/js/runtime-main.1464cae0.js.map",
+    "static/js/2.6c0ef8c8.chunk.js": "/sienacizdziel.github.io/static/js/2.6c0ef8c8.chunk.js",
+    "static/js/2.6c0ef8c8.chunk.js.map": "/sienacizdziel.github.io/static/js/2.6c0ef8c8.chunk.js.map",
+    "static/js/3.a1d95940.chunk.js": "/sienacizdziel.github.io/static/js/3.a1d95940.chunk.js",
+    "static/js/3.a1d95940.chunk.js.map": "/sienacizdziel.github.io/static/js/3.a1d95940.chunk.js.map",
+    "index.html": "/sienacizdziel.github.io/index.html",
+    "static/css/main.d88626d3.chunk.css.map": "/sienacizdziel.github.io/static/css/main.d88626d3.chunk.css.map",
+    "static/js/2.6c0ef8c8.chunk.js.LICENSE.txt": "/sienacizdziel.github.io/static/js/2.6c0ef8c8.chunk.js.LICENSE.txt",
+    "static/media/Siena_Cizdziel_Resume.7735b1c0.pdf": "/sienacizdziel.github.io/static/media/Siena_Cizdziel_Resume.7735b1c0.pdf",
+    "static/media/mailing.4c791f57.jpg": "/sienacizdziel.github.io/static/media/mailing.4c791f57.jpg",
+    "static/media/profilepic.bf12c30e.jpg": "/sienacizdziel.github.io/static/media/profilepic.bf12c30e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1464cae0.js",
+    "static/js/2.6c0ef8c8.chunk.js",
+    "static/css/main.d88626d3.chunk.css",
+    "static/js/main.969596b6.chunk.js"
+  ]
+}
