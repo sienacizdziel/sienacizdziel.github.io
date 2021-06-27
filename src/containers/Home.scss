@@ -1,0 +1,74 @@
+$yale_blue: #011640;
+$pink: #BA7D8A;
+$vertical-center: 17vh;
+
+.menu {
+    margin: auto;
+    text-align: center;
+}
+
+#photo {
+    float: right;
+    width: 24rem;
+    border-radius: 50%;
+    margin: 18vh;
+    margin-top: $vertical-center;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.left
+{
+    float: left;
+    margin-top: $vertical-center + 7vh;
+    margin-left: 26vh;
+    width: 60.91vh;
+}
+
+.home 
+{
+    h1 {
+        font-size: 50px;
+        text-align: left;
+    }
+
+    h2 {
+        color: $yale_blue;
+        margin-top: 15px;
+        text-align: left;
+    }
+
+    h3 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .icon {
+        width: 9%;
+        margin-right: 15px;
+        &:hover {
+            margin-top: -5px;
+        }
+    }
+
+    .icon-div {
+        margin-top: 10px;
+        float: right;
+    }
+
+    .btn-default
+    {
+        color: white;
+        background-color: $pink;
+        font-weight: bold;
+        font-size: 14px;
+        padding: 9px;
+        border-radius: 70%;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+
+    .btn {
+        &:hover {
+            margin-top: -5px;
+        }
+    }
+}

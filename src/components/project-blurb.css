@@ -1,0 +1,30 @@
+.blurb {
+    padding: 6vh;
+    margin: 6vh;
+}
+
+.blurb h2 {
+    text-align: left;
+}
+
+.blurb img {
+    float: right;
+}
+
+.blurb h3 {
+    font-size: 3vh;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.blurb a {
+    margin: 4vh;
+    color: #374785;
+}
+
+.style1 {
+    background-color: #A8D0E6;
+}

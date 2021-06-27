@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+$pink: #BA7D8A;
+
+/* The typing effect, from https://css-tricks.com/snippets/css/typewriter-effect/ */
+@keyframes typing {
+from { width: 0 }
+to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+from, to { border-color: transparent }
+50% { border-color: $pink; }
+}
+
+.typewriter {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid transparent; /* The typewriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    animation: 
+      typing 2s steps(40, end),
+      blink-caret .75s step-end 6;
+}
+
+body {
+    font-family: 'Open Sans', 'Helvetica Neue';
+    background-color: white;
+}
+
+.attribution {
+    text-align: right;
+    position: absolute;
+    margin-right: 5px;
+    font-size: 12px;
+    bottom: 5px;
+    right: 5px;
+}
+
+.vertical-div {
+    height: 100px;
+    line-height: 100px;
+}
+
+.vertical-span {
+    display: inline-block;
+    line-height: normal;
+}
