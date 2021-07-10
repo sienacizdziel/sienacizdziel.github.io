@@ -2,16 +2,26 @@ import React from 'react';
 import './styles.scss';
 import Routes from './Routes.js';
 import { Navbar, Nav } from 'react-bootstrap';
+import { withRouter } from 'react-router';
 
-
-function App() {
+const Header = props => {
+  const { location } = props;
   return (
-  <>
     <Navbar sticky="top">
-      <Nav>
-        {/* <Nav.Link href="/">home</Nav.Link> */}
+      <Nav activeKey={location.pathname}>
+        <Nav.Link href="/">home</Nav.Link>
       </Nav>
     </Navbar>
+  );
+}
+
+const HeaderwithRouter = withRouter(Header);
+
+function App(props) {
+  const location = props;
+  return (
+  <>
+    <HeaderwithRouter />
     <Routes />
   </>
   );
