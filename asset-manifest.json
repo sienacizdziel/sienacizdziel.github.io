@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/siena-website/static/css/main.ca30544f.chunk.css",
-    "main.js": "/siena-website/static/js/main.1041ac82.chunk.js",
-    "main.js.map": "/siena-website/static/js/main.1041ac82.chunk.js.map",
-    "runtime-main.js": "/siena-website/static/js/runtime-main.6db38095.js",
-    "runtime-main.js.map": "/siena-website/static/js/runtime-main.6db38095.js.map",
-    "static/js/2.df47db67.chunk.js": "/siena-website/static/js/2.df47db67.chunk.js",
-    "static/js/2.df47db67.chunk.js.map": "/siena-website/static/js/2.df47db67.chunk.js.map",
-    "static/js/3.f5767549.chunk.js": "/siena-website/static/js/3.f5767549.chunk.js",
-    "static/js/3.f5767549.chunk.js.map": "/siena-website/static/js/3.f5767549.chunk.js.map",
-    "index.html": "/siena-website/index.html",
-    "static/css/main.ca30544f.chunk.css.map": "/siena-website/static/css/main.ca30544f.chunk.css.map",
-    "static/js/2.df47db67.chunk.js.LICENSE.txt": "/siena-website/static/js/2.df47db67.chunk.js.LICENSE.txt",
-    "static/media/Siena_Cizdziel_Resume.7735b1c0.pdf": "/siena-website/static/media/Siena_Cizdziel_Resume.7735b1c0.pdf",
-    "static/media/mailing.4c791f57.jpg": "/siena-website/static/media/mailing.4c791f57.jpg",
-    "static/media/profilepic.bf12c30e.jpg": "/siena-website/static/media/profilepic.bf12c30e.jpg"
+    "main.css": "/sienacizdziel.github.io/static/css/main.ca30544f.chunk.css",
+    "main.js": "/sienacizdziel.github.io/static/js/main.327e4054.chunk.js",
+    "main.js.map": "/sienacizdziel.github.io/static/js/main.327e4054.chunk.js.map",
+    "runtime-main.js": "/sienacizdziel.github.io/static/js/runtime-main.4bffef0f.js",
+    "runtime-main.js.map": "/sienacizdziel.github.io/static/js/runtime-main.4bffef0f.js.map",
+    "static/js/2.df47db67.chunk.js": "/sienacizdziel.github.io/static/js/2.df47db67.chunk.js",
+    "static/js/2.df47db67.chunk.js.map": "/sienacizdziel.github.io/static/js/2.df47db67.chunk.js.map",
+    "static/js/3.f5767549.chunk.js": "/sienacizdziel.github.io/static/js/3.f5767549.chunk.js",
+    "static/js/3.f5767549.chunk.js.map": "/sienacizdziel.github.io/static/js/3.f5767549.chunk.js.map",
+    "index.html": "/sienacizdziel.github.io/index.html",
+    "static/css/main.ca30544f.chunk.css.map": "/sienacizdziel.github.io/static/css/main.ca30544f.chunk.css.map",
+    "static/js/2.df47db67.chunk.js.LICENSE.txt": "/sienacizdziel.github.io/static/js/2.df47db67.chunk.js.LICENSE.txt",
+    "static/media/Siena_Cizdziel_Resume.7735b1c0.pdf": "/sienacizdziel.github.io/static/media/Siena_Cizdziel_Resume.7735b1c0.pdf",
+    "static/media/mailing.4c791f57.jpg": "/sienacizdziel.github.io/static/media/mailing.4c791f57.jpg",
+    "static/media/profilepic.bf12c30e.jpg": "/sienacizdziel.github.io/static/media/profilepic.bf12c30e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6db38095.js",
+    "static/js/runtime-main.4bffef0f.js",
     "static/js/2.df47db67.chunk.js",
     "static/css/main.ca30544f.chunk.css",
-    "static/js/main.1041ac82.chunk.js"
+    "static/js/main.327e4054.chunk.js"
   ]
 }
